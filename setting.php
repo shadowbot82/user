@@ -19,20 +19,20 @@ $ijo|_|  |_|\___/|_| |_|\___|\__, |  \____\__,_|____/ \___|
 
 $kuning Bot Money Cube (Paypal cash & free gift cards)
 $putih ====================================================
-$kuning [$putih creator :$ijo Aris Ahmad R$kuning ]$putih ||$kuning [$putih code invite :$ijo 59BQT$kuning ]
+$kuning [$putih creator :$ijo Shadow Bot$kuning ]$putih ||$kuning [$putih code invite :$ijo 59BQT$kuning ]
 $putih ====================================================".$t.$t;
 
 $msg_money=$ijo."[".$putih."•".$ijo."] Santuy gan ...".$t;
 $msg_cube=$ijo."[".$putih."•".$ijo."] Ngopi dulu biar gak stres".$t.$t;
 
-
+/*coin club*/
 $ccu=$red."
 
   ___     _         $kn ___ _       _
 $red / __|___(_)_ __   $kn / __| |_   _| |__
-$red| |  / _ \ | '_ \ $kn | |  | | | | | '_ \
+$red| |  / _ \ |  _ \ $kn | |  | | | | |  _ \
 $red| |__||_)| | | | | $kn| |__| | |_| | |_) |
-$red \___\___/_|_| |_| $kn \___|_|\__,_|_,__/
+$red \___\___/_|_| |_| $kn \___|_|\____|____/
 
 $pth =================================================
 $kn [$pth creator :$ijo Shadow Bot$kn ]$pth || $kn[$pth code invite :$ijo WK2ZX0$kn ]
