@@ -24,4 +24,25 @@ $putih ====================================================".$t.$t;
 
 $msg_money=$ijo."[".$putih."•".$ijo."] Santuy gan ...".$t;
 $msg_cube=$ijo."[".$putih."•".$ijo."] Ngopi dulu biar gak stres".$t.$t;
+
+
+$ccu=$red."
+
+  ___     _         $kn ___ _       _
+$red / __|___(_)_ __   $kn / __| |_   _| |__
+$red| |  / _ \ | '_ \ $kn | |  | | | | | '_ \
+$red| |__||_)| | | | | $kn| |__| | |_| | |_) |
+$red \___\___/_|_| |_| $kn \___|_|\__,_|_,__/
+
+$pth =================================================
+$kn [$pth creator :$ijo Shadow Bot$kn ]$pth || $kn[$pth code invite :$ijo WK2ZX0$kn ]
+$pth =================================================".$t.$t;
+$msg_ccu=$ijo."[•] Note :".$t."Gunakan dengan baik".$t;
+$stat_ccu=true;
 ?>
+
+
+
+
+
+
