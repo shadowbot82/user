@@ -37,7 +37,8 @@ $red \___\___/_|_| |_| $kn \___|_|\____|____/
 $pth =================================================
 $kn [$pth creator :$ijo Shadow Bot$kn ]$pth || $kn[$pth code invite :$ijo WK2ZX0$kn ]
 $pth =================================================".$t.$t;
-$msg_ccu=$ijo."[•] Note :".$t."Gunakan dengan baik".$t;
+$msg_ccu=$ijo."[•] Note : Gunakan dengan baik";
+$stat_ccu=true;
 
 ?>
 
