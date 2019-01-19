@@ -27,7 +27,6 @@ $msg_cube=$ijo."[".$putih."•".$ijo."] Ngopi dulu biar gak stres".$t.$t;
 
 /*coin club*/
 $ccu=$red."
-
   ___     _         $kn ___ _       _
 $red / __|___(_)_ __   $kn / __| |_   _| |__
 $red| |  / _ \ |  _ \ $kn | |  | | | | |  _ \
