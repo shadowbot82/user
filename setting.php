@@ -10,7 +10,7 @@ $msg_baca=$ijo."[•] Subscribe my channel => SHADOW BOT CHANNEL".$t."[!] Note :
 $stat_baca=true;
 /*money cube*/
 $money_cube=$turkis."
-  __  __                           ____      _
+ __  __                           ____      _
 |  \/  | ___  _ __   ___ _   _   / ___|   _| |__   ___
 $kuning| |\/| |/ _ \| '_ \ / _ \ | | | | |  | | | | '_ \ / _ \
 | |  | | (_) | | | |  __/ |_| | | |__| |_| | |_) |  __/
