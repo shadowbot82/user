@@ -19,7 +19,7 @@ $ijo|_|  |_|\___/|_| |_|\___|\__, |  \____\__,_|____/ \___|
 
 $kuning Bot Money Cube (Paypal cash & free gift cards)
 $putih ====================================================
-$kuning [$putih creator :$ijo Aris Ahmad R $kuning ] $putih ||$kuning [$putih code invite :$ijo 59BQT$kuning ]
+$kuning [$putih creator :$ijo Aris Ahmad R$kuning ]$putih ||$kuning [$putih code invite :$ijo 59BQT$kuning ]
 $putih ====================================================".$t.$t;
 
 $msg_money=$ijo."[".$putih."•".$ijo."] Santuy gan ...".$t;
