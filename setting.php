@@ -15,8 +15,12 @@ $money_cube=$turkis."
 | |\/| |/ _ \| '_ \ / _ \ | | | | |  | | | | '_ \ / _ \$kuning
 | |  | | (_) | | | |  __/ |_| | | |__| |_| | |_) |  __/
 |_|  |_|\___/|_| |_|\___|\__, |  \____\__,_|____/ \___|
-                         |___/ ".$t;
+                         |___/ ".$t.$t;
+echo $kuning."Bot Money Cube (Paypal cash & free gift cards".$t;
+echo $putih."====================================================".$t;
+echo $kuning."[".$putih."creator :$ijo Shadow Bot".$kuning."]".$putih." || ".$kuning."[".$putih."code invite :$ijo 59BQT".$kuning."]".$t;
+echo $putih."====================================================".$t.$t;
 
 $msg_money=$ijo."[".$putih."•".$ijo."] Santuy gan ...".$t;
-$msg_cube=$ijo."[".$putih."•".$ijo."] Ngopi dulu biar gak stres".$t;
+$msg_cube=$ijo."[".$putih."•".$ijo."] Ngopi dulu biar gak stres".$t.$t;
 ?>
