@@ -1,4 +1,18 @@
 <?php
+$yogo=$red." _    _                  
+\ \  / /                  _      ___     _
+$kuning \ \/ /___   __ _  ___   \ \    / (_) _,| | ___  ___
+  \  /  _ \ / _' |/ _ \   \ \  / /| |/ _  |/ _ \/ _ \
+$ijo   | | (_) | (_) | (_) |   \ \/ / | | (_| |  __/ (_) |
+   |_|\___/ \__, |\___/     \__/  |_|\_,__|\___|\___/
+$turkis            |___/".$t;
+
+$msgyg=$ijo."[".$kuning.">".$ijo."] Official Yt SHADOW BOT CHANNEL";
+$msgads=$ijo."[".$kuning.">".$ijo."] Jangan Lupa Subscribe ";
+$msgadsy=$putih."[".$ijo."√".$putih."] Note : ".$t.$ijo."[IND] Gunakan botnya jangan berlebihan takutnya nanti kena banned atau nanti gak bisa wd".$t."[ENG] use bots don't overdo fear later you get banned or can't withdraw".$t;
+
+
+
 echo $putih."[$red!$putih]$red Warning !!!".$t;
 echo $putih."[•] Ini adalah program ilegal".$t;
 echo $putih."[•] Resiko sepenuhnya di tanggung pengguna".$t;
@@ -6,8 +20,7 @@ $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$put
 $msgve=$red."[•] Apk new pengganti Watch & earn".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
-$msgads=$putih."[$biru>$putih] Subscribe Channel YT EfteChannel".$t;
-$msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
+
 $stat_dony=true;
 $st_dony=true;
 $yd_stat=true;
