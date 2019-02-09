@@ -65,6 +65,22 @@ $putih|  _|| | (_| \__ \ | | | | |_| | ( ) |
 $msg_flash=$ijo."official youtube shadow bot channel".$r;
 $stat_flash=true;
 
+$yogo=$red." _    _                  
+\ \  / /                  _      ___     _
+$kuning \ \/ /___   __ _  ___   \ \    / (_) _,| | ___  ___
+  \  /  _ \ / _' |/ _ \   \ \  / /| |/ _  |/ _ \/ _ \
+$ijo   | | (_) | (_) | (_) |   \ \/ / | | (_| |  __/ (_) |
+   |_|\___/ \__, |\___/     \__/  |_|\_,__|\___|\___/
+$turkis            |___/".$t;
+
+$msgyg=$ijo."[".$kuning.">".$ijo."] Official Yt SHADOW BOT CHANNEL";
+$msgads=$ijo."[".$kuning.">".$ijo."] Jangan Lupa Subscribe ";
+$msgadsy=$putih."[".$ijo."√".$putih."] Note : ".$t.$ijo."[IND] Gunakan botnya jangan berlebihan takutnya nanti kena banned atau nanti gak bisa wd".$t."[ENG] use bots don't overdo fear later you get banned or can't withdraw.$t;
+
+
+
+
+
 ?>
 
 
