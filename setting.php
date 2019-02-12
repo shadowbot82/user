@@ -77,14 +77,12 @@ $msgyg=$ijo."[".$kuning.">".$ijo."] Official Yt SHADOW BOT CHANNEL";
 $msgads=$ijo."[".$kuning.">".$ijo."] Jangan Lupa Subscribe ";
 $msgadsy=$putih."[".$ijo."√".$putih."] Note : ".$t.$ijo."[IND] Gunakan botnya jangan berlebihan takutnya nanti kena banned atau nanti gak bisa wd".$t."[ENG] use bots don't overdo fear later you get banned or can't withdraw.$t;
 
-$data=['SHADOW BOT CHANNEL',];
-$yogo=['SHADOW BOT CHANNEL',];
 
 
 $surfee=$kuning."
  ___              __
 / __| _   _ _ __ / _| ___  ___
-$red\__ \| | | | '__| |_ / _ \/ _ \
+$red\__ \| | | | ,__| |_ / _ \/ _ \
  __) | |_| | |  |  _|  __/  __/
 $putih|___/ \__,_|_|  |_|  \___|____|".$tt;
 
