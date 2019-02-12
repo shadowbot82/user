@@ -81,7 +81,7 @@ $data=['SHADOW BOT CHANNEL',];
 $yogo=['SHADOW BOT CHANNEL',];
 
 
-echo $kuning."
+ech$kuning."
  ___              __
 / __| _   _ _ __ / _| ___  ___
 $red\__ \| | | | '__| |_ / _ \/ _ \
