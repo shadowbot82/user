@@ -87,12 +87,6 @@ $red\__ \| | | | ,__| |_ / _ \/ _ \
 $putih|___/ \__,_|_|  |_|  \___|____|".$tt;
 
 
-$wot=$red."
-▄    ▄    ▄ ".$kuning."  ▄▄▄▄▄▄ ".$ijo." ▄▄▄▄▄▄▄".
-$red."▄   ▄ ▄   ▄ ".$kuning." ▄      ▄ ".$ijo."    ▄".
-$red."▄  ▄   ▄  ▄ ".$kuning." ▄      ▄ ".$ijo."    ▄".
-$red."▄ ▄     ▄ ▄ ".$kuning." ▄      ▄ ".$ijo."    ▄".
-$red."▄▄".$putih." Wheel".$red." ▄▄ ".$kuning."  ▄▄".$putih."Of".$kuning."▄▄".$putih."    Trust".$t.$putih."-------------[v.1]------------";
 
 
 $stat_wot=true;
