@@ -93,7 +93,7 @@ $red."▄   ▄ ▄   ▄ ".$kuning." ▄      ▄ ".$ijo."    ▄".
 $red."▄  ▄   ▄  ▄ ".$kuning." ▄      ▄ ".$ijo."    ▄".
 $red."▄ ▄     ▄ ▄ ".$kuning." ▄      ▄ ".$ijo."    ▄".
 $red."▄▄".$putih." Wheel".$red." ▄▄ ".$kuning."  ▄▄".$putih."Of".$kuning."▄▄".$putih."    Trust".$t.
-$putih-------------[v.1]------------
+$putih."-------------[".$red."v.1". $putih."]------------".$t;
 $ads=$putih."--[creator : ".$ijo."Shadow Bot".$putih."]--[Yt : ".$ijo."Shadow Bot Channel".$putih."]--
 --[support : ".$ijo."HĂN C_GAMER".$putih."]--[Yt : ".$ijo."HĂN C_GAMER".$putih."]--".$t;
 
