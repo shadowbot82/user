@@ -12,7 +12,7 @@ $msgads=$ijo."[".$kuning.">".$ijo."] Jangan Lupa Subscribe ";
 $msgadsy=$putih."[".$ijo."√".$putih."] Note : ".$t.$ijo."[". $putih."IND". $ijo."] Gunakan botnya jangan berlebihan takutnya nanti kena banned atau nanti gak bisa wd".$t."[".$putih."ENG".$ijo."] use bots don't overdo fear later you get banned or can't withdraw".$t;
 
 $sk="skidipap";
-
+$pwbaru="";
 
 $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red eftechanel".$t;
 $msgve=$red."[•] Apk new pengganti Watch & earn".$t;
