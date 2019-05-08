@@ -14,8 +14,10 @@ $msgadsy=$putih."[".$ijo."√".$putih."] Note : ".$t.$ijo."[". $putih."IND". $ij
 $sk="skidipap";
 $pwbaru="";
 
+//bot reff dinerogram
 $password_bot_reff_dinerogram="18c6a445999d85bed1ed4b667ab21498";
-
+$msg_dinerogram=$putih."[".$biru."$".$putih."] password dapat di sini ]=[ ".$ijo."https://shortid.co/DlboO".$putih." ]".$t;
+                                                                               
 $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red eftechanel".$t;
 $msgve=$red."[•] Apk new pengganti Watch & earn".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
