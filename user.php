@@ -14,6 +14,8 @@ $msgadsy=$putih."[".$ijo."√".$putih."] Note : ".$t.$ijo."[". $putih."IND". $ij
 $sk="skidipap";
 $pwbaru="";
 
+$password_bot_reff_dinerogram="18c6a445999d85bed1ed4b667ab21498";
+
 $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red eftechanel".$t;
 $msgve=$red."[•] Apk new pengganti Watch & earn".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
